@@ -7,6 +7,6 @@ Samuel Godoi Campos - 2301069
 Tiago Curado - 2300915
 Nikolas Rocha - 
 
-#Link para o vídeo
+# Link para o vídeo:
 
 https://youtu.be/1FgtJpjsUVM
